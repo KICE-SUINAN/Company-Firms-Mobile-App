@@ -1,4 +1,3 @@
-# NavSideBar
-Navagition Side Bar only
+# Mobile Application / Navigation Side Bar / Company Profile Firms
 
-on the process home main profile...
+Mobile Application for Client Services
